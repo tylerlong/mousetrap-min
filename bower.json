@@ -1,0 +1,23 @@
+{
+  "name": "mousetrap-min",
+  "version": "1.5.2",
+  "homepage": "https://github.com/tylerlong/mousetrap-min",
+  "authors": [
+    "Tyler Long <tyler4long@gmail.com>"
+  ],
+  "description": "mousetrap.min.js",
+  "main": "mousetrap.min.js",
+  "keywords": [
+    "mousetrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "fabfile.py",
+    "README.md"
+  ]
+}
